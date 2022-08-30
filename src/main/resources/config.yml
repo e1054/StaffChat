@@ -1,0 +1,13 @@
+# Author: Bondegaard
+
+# - Available placeholders:
+#   - Players name: {player}
+#   - Players server: {server}
+#   - Players message: {message}
+
+
+# Format for /adminchat
+AdminChat-Format: '&8&l | &c&lADMIN &f&lCHAT &8&l| &f[{server}] {player}: {message}'
+
+# Format for /staffchat
+StaffChat-Format: '&8&l | &c&lSTAFF &f&lCHAT &8&l| &f[{server}] {player}: {message}'

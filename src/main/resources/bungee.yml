@@ -1,0 +1,3 @@
+name: StaffChat
+version: '${project.version}'
+main: net.bondegaard.proxy.staffchat.Main
